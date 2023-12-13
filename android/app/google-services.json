@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531333263383",
+    "project_id": "planejamentoviagem-351a6",
+    "storage_bucket": "planejamentoviagem-351a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531333263383:android:525f25244f182aa5e56c52",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBshN0YieHrYkf8ffoccb1X-3cKcONXw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
